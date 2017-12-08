@@ -1,0 +1,63 @@
+# Loading project Bluetooth
+# Compile of bt_tb.sv failed with 5 errors.
+# Compile of bt_tb.sv was successful.
+vsim work.top_tb
+# vsim work.top_tb 
+# Start time: 18:56:59 on Nov 28,2017
+# Loading sv_std.std
+# Loading work.helperPKG
+# Loading work.bt_tb_sv_unit
+# Loading work.top_tb
+# ** Error: (vsim-3033) /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv(36): Instantiation of 'Bluetooth' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb File: /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv
+#         Searched libraries:
+#             /home/jreed/Documents/schoolwork/ee_401/work
+# ** Error: (vsim-3033) /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv(42): Instantiation of 'Bluetooth' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb File: /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv
+#         Searched libraries:
+#             /home/jreed/Documents/schoolwork/ee_401/work
+# Error loading design
+# End time: 18:56:59 on Nov 28,2017, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vsim work.top_tb
+# vsim work.top_tb 
+# Start time: 18:57:02 on Nov 28,2017
+# Loading sv_std.std
+# Loading work.helperPKG
+# Loading work.bt_tb_sv_unit
+# Loading work.top_tb
+# ** Error: (vsim-3033) /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv(36): Instantiation of 'Bluetooth' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb File: /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv
+#         Searched libraries:
+#             /home/jreed/Documents/schoolwork/ee_401/work
+# ** Error: (vsim-3033) /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv(42): Instantiation of 'Bluetooth' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb File: /home/jreed/Documents/schoolwork/ee_401/src/bt_tb.sv
+#         Searched libraries:
+#             /home/jreed/Documents/schoolwork/ee_401/work
+# Error loading design
+# End time: 18:57:02 on Nov 28,2017, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# Compile of bt.sv was successful with warnings.
+vsim work.top_tb
+# vsim work.top_tb 
+# Start time: 18:57:29 on Nov 28,2017
+# Loading sv_std.std
+# Loading work.helperPKG
+# Loading work.bt_tb_sv_unit
+# Loading work.top_tb
+# Loading work.bt_sv_unit
+# Loading work.Bluetooth
+# ** Error: (vsim-3033) /home/jreed/Documents/schoolwork/ee_401/src/bt.sv(69): Instantiation of 'baud_gen' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut1 File: /home/jreed/Documents/schoolwork/ee_401/src/bt.sv
+#         Searched libraries:
+#             /home/jreed/Documents/schoolwork/ee_401/work
+# Loading work.uart
+# Loading work.rx
+# Loading work.tx
+# ** Error: (vsim-3033) /home/jreed/Documents/schoolwork/ee_401/src/bt.sv(69): Instantiation of 'baud_gen' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /top_tb/uut2 File: /home/jreed/Documents/schoolwork/ee_401/src/bt.sv
+#         Searched libraries:
+#             /home/jreed/Documents/schoolwork/ee_401/work
+# Error loading design
+# End time: 18:57:30 on Nov 28,2017, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 0

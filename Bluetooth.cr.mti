@@ -1,0 +1,36 @@
+/home/jreed/Documents/schoolwork/ee_401/src/clock_counter.sv {1 {vlog -work work -sv -stats=none /home/jreed/Documents/schoolwork/ee_401/src/clock_counter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clk_cntr
+
+Top level modules:
+	clk_cntr
+
+} {} {}} /home/jreed/Documents/schoolwork/ee_401/src/helpers.sv {1 {vlog -work work -sv -stats=none /home/jreed/Documents/schoolwork/ee_401/src/helpers.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package helperPKG
+
+Top level modules:
+	--none--
+
+} {} {}} /home/jreed/Documents/schoolwork/ee_401/src/uart_tx.sv {1 {vlog -work work -sv -stats=none /home/jreed/Documents/schoolwork/ee_401/src/uart_tx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tx
+
+Top level modules:
+	tx
+
+} {} {}} /home/jreed/Documents/schoolwork/ee_401/src/uart.sv {1 {vlog -work work -sv -stats=none /home/jreed/Documents/schoolwork/ee_401/src/uart.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module uart
+
+Top level modules:
+	uart
+
+} {} {}} /home/jreed/Documents/schoolwork/ee_401/src/uart_rx.sv {1 {vlog -work work -sv -stats=none /home/jreed/Documents/schoolwork/ee_401/src/uart_rx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rx
+
+Top level modules:
+	rx
+
+} {} {}}
