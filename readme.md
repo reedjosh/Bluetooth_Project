@@ -1,6 +1,6 @@
 # DE0-Nano Bluetooth Via HC-05
 
-This project implements uart inside the Altera Cylone 4 FPGA which then uses a bufer to send and recieve ascii characters.
+This project implements uart inside the Altera Cylone 4 FPGA which then uses a buffer to send and recieve ascii characters.
 
 Built with Quartus 17. 
 
